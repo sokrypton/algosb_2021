@@ -17,3 +17,4 @@ Bonus
 - [MSA_transformer = power iteration hypothesis](https://colab.research.google.com/github/sokrypton/algosb_2021/blob/main/msa_transformer_hypothesis.ipynb)
 - [AlphaFold for Design](https://colab.research.google.com/github/sokrypton/af_backprop/blob/main/examples/af_design.ipynb)
 - [GREMLIN in JAX](https://colab.research.google.com/github/sokrypton/laxy/blob/main/examples/gremlin_jax.ipynb)
+- [GREMLIN in Keras](https://colab.research.google.com/github/sokrypton/GREMLIN_CPP/blob/master/GREMLIN_TF_simple.ipynb)
